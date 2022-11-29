@@ -1,0 +1,39 @@
+body{
+    background-color:black;
+}
+h1,
+p{
+    color: green;
+    font-family: 'Oswald', sans-serif;
+}
+a{
+    color: green;
+}
+.styling{
+    border:2px solid green;
+    margin-right: 200px;
+}
+img{
+    border: 2px solid green;
+}
+l1{
+
+    color: green;
+}
+ul{
+    color: green;
+}
+h4{
+    color: green;
+    font-family: 'Oswald', sans-serif;
+}
+.ordered list,
+li{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    
+}
+ul.sb3{
+    display: inline-block;
+    text-align: center;
+}
