@@ -28,7 +28,7 @@ a{
 img{
     border: 2px solid green;
 
-    flex-direction: row;
+    
 }
 li{
 
@@ -84,4 +84,13 @@ ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
+}
+.sbflex-container{
+flex-direction:row;
+display: flex;
+justify-items: center;
+margin:1%;
+background-color: green;
+margin-right:  2000px;
+margin-left: 22%;
 }
