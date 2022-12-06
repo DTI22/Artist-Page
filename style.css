@@ -7,14 +7,14 @@ h1{
     color: green;
     font-family: 'Oswald', sans-serif;
    border-radius: 1px;
-   margin:5%;
+   margin:1%;
    background-color:rgb(0, 0, 0);
-   padding-left: %;
+   
 }
 p{
     color: green;
     font-family: 'Oswald', sans-serif;
-   margin-bottom: 1%;
+   margin: 1%;
    border: 5px solid green;
    background-color: white;
 }
@@ -65,7 +65,7 @@ padding: 15px;
 .tenor-gif-embed{
 border: 2px solid rgb(0, 0, 0);
 }
-border{
+.border{
 margin-left: 500%;
 padding-left: 50%;
 
