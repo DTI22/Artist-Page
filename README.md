@@ -1,2 +1,2 @@
 # Artist Page
- age for my favorite artist
+ page for my favorite artist
